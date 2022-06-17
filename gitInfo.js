@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+const gitDefinition = "Git is a version control system that allows people to organize and track changes to their code.";
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+const gitHubDefinition = "GitHub is an online cloud storage system that allows you to make reositories and collaborate with peers on your code.";
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+const gitInitDefinition = "This command initializes a local repository in the directory where you are currently located.";
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+const gitCloneDefinition = "This command creates a copy of an existing repository in a new directory.";
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+const gitStatusDefinition = "This command provides information about your repository.";
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,8 @@
 */
 
 //CODE HERE
+const gitAddDefinition = "This command adds files to be tracked.";
+const gitAddCode = "git add .";
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,7 +71,8 @@
 */
 
 //CODE HERE
-
+const gitCommitDefinition = "This command takes a snapshot of the files I am tracking.";
+const gitCommitCode = "git commit -m 'initial commit'";
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +81,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = "This command pushes the snapshot of the files that you took to the repository origin that you will have provided.";
